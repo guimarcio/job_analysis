@@ -4,7 +4,7 @@ https://github.com/user-attachments/assets/09df0cad-76c9-4988-b946-d89f00a709cf
 
 ## Introduction
 
-This data jobs salary dashboard was created to help job seekers investigate tech job salaries and job schedule trends since 2020, so they can make more informed career decisions.
+This tech jobs salary dashboard was created to help job seekers investigate tech job salaries and job schedule trends since 2020, so they can make more informed career decisions.
 
 The data is real and was provided on a Kaggle page. It contains detailed information on job titles, salaries, locations, schedules, years, and more.
 
