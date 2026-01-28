@@ -24,9 +24,9 @@ Excel skills utilized for the analysis:
 - **🔍 Power Query**
 - **💪 Power Pivot**
 
-### Tech Jobs Dataset
+### Tech Jobs Dataset and Excel file
 
-The dataset used for this project contains real-world techjob information from 2020 to 2024. The dataset were changed in other project and I used the [transformed dataset](/0_Resources/data.csv) to analyze. The [original dataset](/0_Resources/global_tech_salary.txt) was obtained on a Kaggle page.
+The dataset used for this project contains real-world techjob information from 2020 to 2024. The dataset were changed in other project and I used the [transformed dataset](/0_Resources/data.csv) to analyze. The [original dataset](/0_Resources/global_tech_salary.txt) was obtained on a Kaggle page. All the analysis can be found in this [file](project2.xlsx). 
 
 ## 1️⃣ Which tech job pays the most?
 
